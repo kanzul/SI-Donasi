@@ -1,11 +1,11 @@
 # ticket-booking
-Pemesanan Tiket Pesawat dan Kapal Online
+Sistem informasi penggalangan donasi/campange
 
 ### How to use
 
 ```
 jalankan xampp
-import database -> reni_jaya_fresh.sql
+import database ->donasi_lmi.sql
 admin dashboard: masuk ke folder admin -> application -> config -> config.php -> pada $config['base_url'], sesuaikan dengan penempatan folder anda
 halaman pemesanan(front-end): masuk ke folder application -> config -> config.php -> pada $config['base_url'], sesuaikan dengan penempatan folder anda
 buka localhost yang sudah anda sesuaikan pada base url
