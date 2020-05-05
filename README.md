@@ -1,4 +1,4 @@
-# ticket-booking
+# Project SI-Donasi_LMI
 Sistem informasi penggalangan donasi/campange
 
 ### How to use
