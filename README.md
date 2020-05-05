@@ -4,6 +4,8 @@ Sistem informasi penggalangan donasi/campange
 ### How to use
 
 ```
+Framwork : CI 3
+
 jalankan xampp
 import database ->donasi_lmi.sql
 admin dashboard: masuk ke folder admin -> application -> config -> config.php -> pada $config['base_url'], sesuaikan dengan penempatan folder anda
